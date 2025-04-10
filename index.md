@@ -16,6 +16,6 @@ for(let i = 0; i > 10; i++){ a.push(i); }
 ```
 
 
-- [X] Turn on GitHub Pages
-- [X] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] Corrigir erro na interface do usuário
+- [ ] Implementar autenticação de dois fatores
+- [x] Atualizar documentação do README
