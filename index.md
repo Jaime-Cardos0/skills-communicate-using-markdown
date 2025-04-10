@@ -14,3 +14,8 @@ Posso ver um curso em vídeo depois, quando for hora de aprender o Git
 let a = [];
 for(let i = 0; i > 10; i++){ a.push(i); }
 ```
+
+
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
