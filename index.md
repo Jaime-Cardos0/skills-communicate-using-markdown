@@ -8,3 +8,9 @@ Posso ver um curso em vídeo depois, quando for hora de aprender o Git
 ![Imagem de Tanjiro Kamado](https://github.com/user-attachments/assets/21796460-a5ad-4cb6-8e3f-c7113cffd16d)
 
 .
+
+
+```javascript
+let a = [];
+for(let i = 0; i > 10; i++){ a.push(i); }
+```
